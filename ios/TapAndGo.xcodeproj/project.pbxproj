@@ -488,7 +488,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = TapAndGo/TapAndGo.entitlements;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 25CCLYA564;
+				DEVELOPMENT_TEAM = 47ZXHG68DS;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = TapAndGo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -500,7 +500,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.richiehsieh.tapandgo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hyyp.nfcapp;
 				PRODUCT_NAME = TapAndGo;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -516,7 +516,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = TapAndGo/TapAndGo.entitlements;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 25CCLYA564;
+				DEVELOPMENT_TEAM = 47ZXHG68DS;
 				INFOPLIST_FILE = TapAndGo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -527,7 +527,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.richiehsieh.tapandgo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hyyp.nfcapp;
 				PRODUCT_NAME = TapAndGo;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
